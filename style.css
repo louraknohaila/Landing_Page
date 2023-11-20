@@ -132,7 +132,10 @@ body{
         color : black;
         margin-left: 10px;
     }
-
+   .texte3{
+         position : relative;
+       right :15px;
+   }
     .cont1 {
         left: 0;
         bottom: 0;
